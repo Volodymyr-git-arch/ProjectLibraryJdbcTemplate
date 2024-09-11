@@ -11,7 +11,7 @@
 	<groupId>ua.krizhanivsky.springcourse</groupId>
 	<artifactId>ProjectLibraryJdbcTemplate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Project2Boot2</name>
+	<name>Project Library </name>
 	<description>Project Library code with Spring Boot and JdbcTemplate</description>
 	<url/>
 	<licenses>
